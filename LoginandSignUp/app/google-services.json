@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "710204276614",
+    "project_id": "login-and-signup-fc2f2",
+    "storage_bucket": "login-and-signup-fc2f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710204276614:android:9b2fe9405d23f4f6057607",
+        "android_client_info": {
+          "package_name": "com.ngoduy.loginandsignup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALheRZ6jn1f6PlbcATOr28HPA9x3npGzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
